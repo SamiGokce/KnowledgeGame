@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head><title>Image Test</title></head>
+<body style="background:#F1EADD;font-family:sans-serif;padding:20px;">
+<h2>Wikimedia Image Loading Test</h2>
+<div id="results"></div>
+<script>
+const urls = [
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/320px-Flag_of_Canada_%28Pantone%29.svg.png',
+  'https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/240px-Giraffe_standing.jpg',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/240px-Statue_of_Liberty_7.jpg',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/280px-Grosser_Panda.JPG',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/280px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/240px-Christ_the_Redeemer_-_Cristo_Redentor.jpg',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/AxolotlBE.jpg/280px-AxolotlBE.jpg',
+];
+
+const results = document.getElementById('results');
+
+// Test 1: Simple img tags
+results.innerHTML += '<h3>Test 1: Direct img tags</h3>';
+urls.forEach((url, i) => {
+  const div = document.createElement('div');
+  div.style.marginBottom = '10px';
+  div.innerHTML = `<b>${i+1}.</b> `;
+
+  const img = document.createElement('img');
+  img.style.maxHeight = '80px';
+  img.style.verticalAlign = 'middle';
+  img.src = url;
+
+  const status = document.createElement('span');
+  status.textContent = ' Loading...';
+  status.style.color = 'orange';
+
+  img.onload = () => { status.textContent = ' OK'; status.style.color = 'green'; };
+  img.onerror = () => { status.textContent = ' FAILED'; status.style.color = 'red'; };
+
+  div.appendChild(img);
+  div.appendChild(status);
+  results.appendChild(div);
+});
+
+// Test 2: With referrerpolicy
+results.innerHTML += '<h3>Test 2: With referrerpolicy="no-referrer"</h3>';
+urls.slice(0, 3).forEach((url, i) => {
+  const div = document.createElement('div');
+  div.style.marginBottom = '10px';
+  div.innerHTML = `<b>${i+1}.</b> `;
+
+  const img = document.createElement('img');
+  img.style.maxHeight = '80px';
+  img.style.verticalAlign = 'middle';
+  img.referrerPolicy = 'no-referrer';
+  img.src = url;
+
+  const status = document.createElement('span');
+  status.textContent = ' Loading...';
+  status.style.color = 'orange';
+
+  img.onload = () => { status.textContent = ' OK'; status.style.color = 'green'; };
+  img.onerror = () => { status.textContent = ' FAILED'; status.style.color = 'red'; };
+
+  div.appendChild(img);
+  div.appendChild(status);
+  results.appendChild(div);
+});
+
+// Test 3: display:none then visible (like the game does)
+results.innerHTML += '<h3>Test 3: display:none then made visible</h3>';
+urls.slice(0, 3).forEach((url, i) => {
+  const div = document.createElement('div');
+  div.style.marginBottom = '10px';
+  div.innerHTML = `<b>${i+1}.</b> `;
+
+  const img = document.createElement('img');
+  img.style.maxHeight = '80px';
+  img.style.verticalAlign = 'middle';
+  img.style.display = 'none';
+  img.src = url;
+
+  const status = document.createElement('span');
+  status.textContent = ' Loading...';
+  status.style.color = 'orange';
+
+  img.onload = () => {
+    img.style.display = 'inline';
+    status.textContent = ' OK';
+    status.style.color = 'green';
+  };
+  img.onerror = () => { status.textContent = ' FAILED'; status.style.color = 'red'; };
+
+  div.appendChild(img);
+  div.appendChild(status);
+  results.appendChild(div);
+});
+</script>
+</body>
+</html>
