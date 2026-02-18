@@ -27,6 +27,12 @@ function doGet(e) {
             q.i = imageUrl.toString().trim();
           }
 
+          // Column D: category
+          const category = data[i][3] || '';
+          if (category && category.toString().trim()) {
+            q.c = category.toString().trim();
+          }
+
           questions.push(q);
         }
       }
