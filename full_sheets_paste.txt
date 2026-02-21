@@ -1,0 +1,399 @@
+
+====== EASY TAB ======
+(Select all cells in your Easy sheet, delete, then paste below)
+Question	Answers	Image URL
+What is the capital of France?	Paris, paris	
+What color is the sky?	Blue, blue	
+How many legs does a spider have?	8, eight, Eight	
+What is 2 + 2?	4, four, Four	
+What animal says "moo"?	Cow, cow, cattle	
+What is the opposite of hot?	Cold, cold	
+How many days are in a week?	7, seven, Seven	
+What is the color of grass?	Green, green	
+What planet do we live on?	Earth, earth	
+What is frozen water called?	Ice, ice	
+How many wheels does a bicycle have?	2, two, Two	
+What is the first letter of the alphabet?	A, a	
+What do bees make?	Honey, honey	
+What is the opposite of up?	Down, down	
+What shape is a ball?	Circle, round, sphere, Round, Sphere	
+What animal has a trunk?	Elephant, elephant	
+What is 1 + 1?	2, two, Two	
+What color is an apple?	Red, red, green, Green	
+How many fingers on one hand?	5, five, Five	
+What do you use to write?	Pen, pencil, Pen, Pencil	
+What is the opposite of big?	Small, little, tiny, Small, Little, Tiny	
+What is baby cat called?	Kitten, kitten	
+What do fish swim in?	Water, water	
+What is the opposite of day?	Night, night	
+What animal says "woof"?	Dog, dog	
+What is the capital of Italy?	Rome, rome	
+How many months in a year?	12, twelve, Twelve	
+What is the color of snow?	White, white	
+What is 10 - 5?	5, five, Five	
+What do you drink?	Water, water, milk, juice	
+What is the opposite of fast?	Slow, slow	
+What animal lays eggs?	Chicken, bird, duck, Bird, Duck, Chicken	
+What is the biggest animal?	Whale, blue whale, Blue Whale	
+What is the opposite of happy?	Sad, sad	
+What do you sit on?	Chair, chair, seat	
+What is the color of the sun?	Yellow, yellow, orange	
+How many sides does a triangle have?	3, three, Three	
+What is the opposite of young?	Old, old	
+What animal hops?	Rabbit, bunny, kangaroo, Bunny, Kangaroo	
+What is 5 + 5?	10, ten, Ten	
+What do you sleep on?	Bed, bed	
+What is the opposite of loud?	Quiet, silent, soft, Quiet, Silent	
+What animal has stripes?	Zebra, tiger, Tiger, Zebra	
+What is the capital of England?	London, london	
+How many eyes do you have?	2, two, Two	
+What is the opposite of clean?	Dirty, dirty	
+What do birds use to fly?	Wings, wings	
+What is the color of a banana?	Yellow, yellow	
+What is 3 + 3?	6, six, Six	
+What is the opposite of empty?	Full, full	
+What animal swims?	Fish, fish, dolphin, shark	
+What is the first day of the week?	Monday, monday, Sunday, sunday	
+What is the opposite of soft?	Hard, hard	
+What do you wear on your feet?	Shoes, socks, Shoes, Socks	
+What is the color of chocolate?	Brown, brown	
+How many seasons are there?	4, four, Four	
+What is the opposite of start?	Stop, end, finish, Stop, End	
+What animal has a long neck?	Giraffe, giraffe	
+What is 4 + 4?	8, eight, Eight	
+What is the opposite of light?	Dark, heavy, Dark, Heavy	
+What do you use to see?	Eyes, eyes	
+What is the capital of Spain?	Madrid, madrid	
+How many hours in a day?	24, twenty-four, Twenty-Four	
+What is the opposite of thick?	Thin, thin	
+What animal climbs trees?	Monkey, squirrel, cat, Monkey, Squirrel	
+What is the color of fire?	Red, orange, yellow, Orange, Yellow	
+What is 6 + 6?	12, twelve, Twelve	
+What is the opposite of rough?	Smooth, smooth	
+What do you use to hear?	Ears, ears	
+What is the last month of the year?	December, december	
+What is the opposite of new?	Old, old	
+What animal has a shell?	Turtle, snail, crab, Turtle, Snail	
+What is 7 + 7?	14, fourteen, Fourteen	
+What is the opposite of wet?	Dry, dry	
+What do you breathe?	Air, oxygen, Air, Oxygen	
+What is the capital of USA?	Washington DC, Washington, DC	
+How many continents are there?	7, seven, Seven	
+What is the opposite of right?	Left, wrong, Left, Wrong	
+What animal flies at night?	Bat, owl, Bat, Owl	
+What is 8 + 8?	16, sixteen, Sixteen	
+What is the opposite of front?	Back, back	
+What do you use to smell?	Nose, nose	
+What is the color of a lemon?	Yellow, yellow	
+How many minutes in an hour?	60, sixty, Sixty	
+What is the opposite of near?	Far, far	
+What animal has spots?	Leopard, cheetah, dalmatian, Leopard, Cheetah	
+What is 9 + 9?	18, eighteen, Eighteen	
+What is the opposite of open?	Closed, shut, Closed, Shut	
+What do trees give us?	Oxygen, air, shade, Oxygen, Air	
+What is the first month of the year?	January, january	
+What is the opposite of strong?	Weak, weak	
+What animal has wings?	Bird, butterfly, bee, Bird, Butterfly	
+What is 10 + 10?	20, twenty, Twenty	
+What is the opposite of tall?	Short, short	
+What do you use to taste?	Tongue, tongue	
+What is the capital of Canada?	Ottawa, ottawa	
+How many colors in a rainbow?	7, seven, Seven	
+What country's flag is this?	Canada	images/flag_canada.png
+What country's flag is this?	United States,USA,America	images/flag_united_states.png
+What country's flag is this?	United Kingdom,UK,Britain	images/flag_united_kingdom.png
+What country's flag is this?	Germany	images/flag_germany.png
+What country's flag is this?	Italy	images/flag_italy.png
+What country's flag is this?	Spain	images/flag_spain.png
+What country's flag is this?	China	images/flag_china.png
+What animal is this?	Giraffe	images/animal_giraffe.jpg
+What animal is this?	Panda,Giant Panda	images/animal_panda.jpg
+What animal is this?	Zebra	images/animal_zebra.jpg
+What famous landmark is this?	Statue of Liberty	images/landmark_statue_of_liberty.jpg
+What famous landmark is this?	Big Ben	images/landmark_big_ben.jpg
+What famous landmark is this?	Taj Mahal	images/landmark_taj_mahal.jpg
+What famous landmark is this?	Great Wall of China,Great Wall	images/landmark_great_wall_of_china.jpg
+What famous landmark is this?	Sydney Opera House,Opera House	images/landmark_sydney_opera_house.jpg
+What fruit is this?	Apple	images/misc_apple.jpg
+What food is this?	Hamburger,Burger	images/food_hamburger.jpg
+What food is this?	Pizza	images/food_pizza.jpg
+What food is this?	Hot Dog	images/food_hot_dog.jpg
+What musical instrument is this?	Guitar	images/instrument_guitar.jpg
+What musical instrument is this?	Violin	images/instrument_violin.jpg
+What musical instrument is this?	Drum,Drums	images/instrument_drum.png
+What famous painting is this?	Mona Lisa	images/painting_mona_lisa.jpg
+What animal is this?	Penguin	images/animal_penguin.jpg
+What planet is this?	Saturn	images/misc_saturn.jpg
+What country's flag is this?	France	images/flag_france.png
+What country's flag is this?	Australia	images/flag_australia.png
+What animal is this?	Tiger	images/animal_tiger.jpg
+What famous landmark is this?	Leaning Tower of Pisa,Tower of Pisa	images/landmark_leaning_tower_of_pisa.jpg
+What vehicle is this?	Airplane,Plane	images/misc_airplane.jpg
+
+====== MEDIUM TAB ======
+(Select all cells in your Medium sheet, delete, then paste below)
+Question	Answers	Image URL
+What is the chemical symbol for water?	H2O, h2o	
+Who painted the Mona Lisa?	Leonardo da Vinci, Da Vinci, davinci	
+What is the capital of Australia?	Canberra, canberra	
+How many bones are in the human body?	206, two hundred six	
+What is the largest ocean?	Pacific, Pacific Ocean	
+Who wrote Romeo and Juliet?	Shakespeare, William Shakespeare	
+What is the speed of light?	299792458, 300000000, 3x10^8	
+What year did World War 2 end?	1945, nineteen forty-five	
+What is the smallest planet?	Mercury, mercury	
+Who invented the telephone?	Alexander Graham Bell, Bell, Graham Bell	
+What is the square root of 144?	12, twelve	
+What is the capital of Japan?	Tokyo, tokyo	
+How many teeth does an adult human have?	32, thirty-two	
+What is the largest mammal?	Blue whale, whale	
+Who wrote Harry Potter?	JK Rowling, Rowling, J.K. Rowling	
+What is the boiling point of water?	100, 100 degrees, 212 fahrenheit	
+What year did the Titanic sink?	1912, nineteen twelve	
+What is the longest river?	Nile, Nile River, Amazon	
+Who painted Starry Night?	Van Gogh, Vincent van Gogh	
+What is the capital of Brazil?	Brasilia, brasilia	
+How many planets in our solar system?	8, eight	
+What is the largest continent?	Asia, asia	
+Who discovered penicillin?	Alexander Fleming, Fleming	
+What is the smallest bone in the body?	Stapes, stirrup, stapes	
+What year was the Declaration of Independence signed?	1776, seventeen seventy-six	
+What is the hardest natural substance?	Diamond, diamond	
+Who wrote 1984?	George Orwell, Orwell	
+What is the capital of Egypt?	Cairo, cairo	
+How many strings does a guitar have?	6, six	
+What is the largest desert?	Sahara, Sahara Desert, Antarctic	
+Who invented the light bulb?	Thomas Edison, Edison	
+What is the Pythagorean theorem?	a2+b2=c2, a squared plus b squared equals c squared	
+What year did man land on the moon?	1969, nineteen sixty-nine	
+What is the tallest mountain?	Mount Everest, Everest	
+Who wrote Pride and Prejudice?	Jane Austen, Austen	
+What is the capital of Russia?	Moscow, moscow	
+How many chambers in the human heart?	4, four	
+What is the smallest country?	Vatican City, Vatican	
+Who painted the Sistine Chapel?	Michelangelo, michelangelo	
+What is the currency of Japan?	Yen, yen	
+What year did Columbus discover America?	1492, fourteen ninety-two	
+What is the largest organ in the human body?	Skin, skin	
+Who wrote The Great Gatsby?	F Scott Fitzgerald, Fitzgerald	
+What is the capital of Germany?	Berlin, berlin	
+How many sides does a hexagon have?	6, six	
+What is the freezing point of water?	0, zero, 32 fahrenheit	
+Who invented the airplane?	Wright Brothers, Wright brothers, Orville and Wilbur Wright	
+What is the capital of China?	Beijing, beijing	
+How many valves in the heart?	4, four	
+What is the main gas in Earth's atmosphere?	Nitrogen, nitrogen	
+Who wrote Hamlet?	Shakespeare, William Shakespeare	
+What is the capital of India?	New Delhi, Delhi	
+How many degrees in a circle?	360, three hundred sixty	
+What is the powerhouse of the cell?	Mitochondria, mitochondria	
+Who discovered America?	Christopher Columbus, Columbus	
+What is the capital of Mexico?	Mexico City, mexico city	
+How many ribs in the human body?	24, twenty-four	
+What is the study of life called?	Biology, biology	
+Who painted the Last Supper?	Leonardo da Vinci, Da Vinci	
+What is the capital of Argentina?	Buenos Aires, buenos aires	
+How many chromosomes in a human cell?	46, forty-six	
+What is the study of weather called?	Meteorology, meteorology	
+Who wrote The Odyssey?	Homer, homer	
+What is the capital of South Africa?	Pretoria, Cape Town, Bloemfontein	
+How many elements in the periodic table?	118, one hundred eighteen	
+What is the largest planet?	Jupiter, jupiter	
+Who invented the printing press?	Johannes Gutenberg, Gutenberg	
+What is the capital of Turkey?	Ankara, ankara	
+How many Great Lakes are there?	5, five	
+What is the study of rocks called?	Geology, geology	
+Who wrote To Kill a Mockingbird?	Harper Lee, Lee	
+What is the capital of Poland?	Warsaw, warsaw	
+How many cards in a deck?	52, fifty-two	
+What is the longest bone in the body?	Femur, femur, thighbone	
+Who discovered gravity?	Isaac Newton, Newton	
+What is the capital of Sweden?	Stockholm, stockholm	
+How many inches in a foot?	12, twelve	
+What is the study of the mind called?	Psychology, psychology	
+Who wrote Moby Dick?	Herman Melville, Melville	
+What is the capital of Thailand?	Bangkok, bangkok	
+How many teeth does a cat have?	30, thirty	
+What is the study of plants called?	Botany, botany	
+Who invented the telephone?	Alexander Graham Bell, Bell	
+What is the capital of Vietnam?	Hanoi, hanoi	
+How many faces does a cube have?	6, six	
+What is the study of space called?	Astronomy, astronomy	
+Who wrote The Catcher in the Rye?	JD Salinger, Salinger	
+What is the capital of Greece?	Athens, athens	
+How many keys on a piano?	88, eighty-eight	
+What is the study of fossils called?	Paleontology, paleontology	
+Who discovered radioactivity?	Marie Curie, Curie	
+What is the capital of Portugal?	Lisbon, lisbon	
+How many years in a decade?	10, ten	
+What is the study of earthquakes called?	Seismology, seismology	
+Who wrote The Iliad?	Homer, homer	
+What is the capital of Norway?	Oslo, oslo	
+How many millimeters in a centimeter?	10, ten	
+What is the study of heredity called?	Genetics, genetics	
+Who invented the steam engine?	James Watt, Watt	
+What country's flag is this?	Mexico	images/flag_mexico.png
+What country's flag is this?	Argentina	images/flag_argentina.png
+What country's flag is this?	Turkey,Turkiye	images/flag_turkey.png
+What country's flag is this?	India	images/flag_india.png
+What country's flag is this?	Greece	images/flag_greece.png
+What country's flag is this?	Sweden	images/flag_sweden.png
+What country's flag is this?	Netherlands,Holland	images/flag_netherlands.png
+What famous landmark is this?	Christ the Redeemer	images/landmark_christ_the_redeemer.jpg
+What famous landmark is this?	Stonehenge	images/landmark_stonehenge.jpg
+What famous landmark is this?	Pyramids of Giza,Pyramids,Great Pyramid	images/landmark_pyramids_of_giza.jpg
+What famous landmark is this?	Petra	images/landmark_petra.jpg
+What famous landmark is this?	Machu Picchu	images/landmark_machu_picchu.jpg
+What animal is this?	Koala	images/animal_koala.jpg
+What animal is this?	Sloth	images/animal_sloth.jpg
+What animal is this?	Flamingo	images/animal_flamingo.jpg
+What painting is this?	The Scream	images/painting_the_scream.jpg
+What painting is this?	The Last Supper	images/painting_the_last_supper.jpg
+What painting is this?	Girl with a Pearl Earring	images/painting_girl_with_a_pearl_earring.jpg
+What food is this?	Paella	images/food_paella.jpg
+What food is this?	Croissant	images/food_croissant.jpg
+What food is this?	Tacos,Taco	images/food_tacos.jpg
+What food is this?	Ramen	images/food_ramen.jpg
+What musical instrument is this?	Trumpet	images/instrument_trumpet.jpg
+What musical instrument is this?	Saxophone,Sax	images/instrument_saxophone.jpg
+What musical instrument is this?	Harp	images/instrument_harp.jpg
+What famous structure is this?	Golden Gate Bridge	images/landmark_golden_gate_bridge.jpg
+What natural wonder is this?	Grand Canyon	images/nature_grand_canyon.jpg
+What country's flag is this?	Switzerland	images/flag_switzerland.png
+What animal is this?	Kangaroo	images/animal_kangaroo.jpg
+What painting is this?	The Birth of Venus	images/painting_the_birth_of_venus.jpg
+
+====== HARD TAB ======
+(Select all cells in your Hard sheet, delete, then paste below)
+Question	Answers	Image URL
+What is the Avogadro constant?	6.022x10^23, 6.022e23	
+Who composed The Four Seasons?	Antonio Vivaldi, Vivaldi	
+What is the Planck constant?	6.626x10^-34, 6.626e-34	
+What year was the Byzantine Empire founded?	330, three hundred thirty	
+What is the Riemann Hypothesis about?	Prime numbers, distribution of primes	
+Who discovered the electron?	JJ Thomson, Thomson	
+What is the molecular formula of glucose?	C6H12O6, c6h12o6	
+What year did the French Revolution begin?	1789, seventeen eighty-nine	
+What is Heisenberg's Uncertainty Principle?	Cannot know position and momentum simultaneously	
+Who wrote The Divine Comedy?	Dante Alighieri, Dante	
+What is the speed of sound in air?	343, 343 m/s, 1235 km/h	
+What year was the Treaty of Versailles signed?	1919, nineteen nineteen	
+What is Fermat's Last Theorem?	No integer solutions for x^n+y^n=z^n when n>2	
+Who discovered the structure of DNA?	Watson and Crick, Watson, Crick	
+What is the half-life of Carbon-14?	5730, 5730 years	
+What year did the Ottoman Empire fall?	1922, nineteen twenty-two	
+What is Godel's Incompleteness Theorem about?	Limits of provability in mathematics	
+Who painted Guernica?	Pablo Picasso, Picasso	
+What is the first law of thermodynamics?	Energy cannot be created or destroyed	
+What year was the Magna Carta signed?	1215, twelve fifteen	
+What is the uncertainty principle equation?	ΔxΔp≥h/4π	
+Who wrote The Brothers Karamazov?	Fyodor Dostoevsky, Dostoevsky	
+What is the Boltzmann constant?	1.38x10^-23, 1.38e-23	
+What year did the Holy Roman Empire end?	1806, eighteen oh six	
+What is the Schrodinger equation?	iℏ∂ψ/∂t=Ĥψ	
+Who composed The Magic Flute?	Wolfgang Amadeus Mozart, Mozart	
+What is the gravitational constant?	6.674x10^-11, 6.674e-11	
+What year was the Battle of Hastings?	1066, ten sixty-six	
+What is Nash Equilibrium?	Optimal strategy when no player can benefit by changing	
+Who painted The Birth of Venus?	Sandro Botticelli, Botticelli	
+What is the mass of an electron?	9.109x10^-31 kg, 9.109e-31	
+What year did the War of Roses end?	1485, fourteen eighty-five	
+What is the Navier-Stokes equation about?	Fluid dynamics, fluid motion	
+Who wrote Faust?	Johann Wolfgang von Goethe, Goethe	
+What is Euler's identity?	e^(iπ)+1=0	
+What year was the Peace of Westphalia?	1648, sixteen forty-eight	
+What is the Chandrasekhar limit?	1.4 solar masses, 1.4	
+Who painted The Garden of Earthly Delights?	Hieronymus Bosch, Bosch	
+What is the fine structure constant?	1/137, 0.0073, 7.297x10^-3	
+What year did the Hundred Years War end?	1453, fourteen fifty-three	
+What is the Bekenstein-Hawking formula?	Black hole entropy	
+Who wrote War and Peace?	Leo Tolstoy, Tolstoy	
+What is the Schwarzschild radius formula?	2GM/c^2	
+What year was the Council of Nicaea?	325, three hundred twenty-five	
+What is the Pauli Exclusion Principle?	No two fermions can occupy same quantum state	
+Who composed The Ring Cycle?	Richard Wagner, Wagner	
+What is the Carnot efficiency formula?	1-Tc/Th	
+What year did the Thirty Years War begin?	1618, sixteen eighteen	
+What is Ramanujan's tau function?	Coefficient in modular form	
+Who painted The School of Athens?	Raphael, raphael	
+What is the Stefan-Boltzmann constant?	5.67x10^-8, 5.67e-8	
+What year was the Battle of Waterloo?	1815, eighteen fifteen	
+What is the Dirac equation?	Relativistic wave equation for fermions	
+Who wrote The Canterbury Tales?	Geoffrey Chaucer, Chaucer	
+What is the Compton wavelength?	h/mc	
+What year did the Spanish Armada sail?	1588, fifteen eighty-eight	
+What is the Von Neumann entropy?	-Tr(ρ ln ρ)	
+Who composed The Rite of Spring?	Igor Stravinsky, Stravinsky	
+What is the Hubble constant approximately?	70 km/s/Mpc, 70	
+What year was the Edict of Nantes?	1598, fifteen ninety-eight	
+What is the partition function in physics?	Sum over all states of e^(-E/kT)	
+Who painted Las Meninas?	Diego Velazquez, Velazquez	
+What is the Rydberg constant?	1.097x10^7, 1.097e7	
+What year did the Crimean War begin?	1853, eighteen fifty-three	
+What is the Born Rule?	Probability equals square of wave function amplitude	
+Who wrote Don Quixote?	Miguel de Cervantes, Cervantes	
+What is the de Broglie wavelength?	h/p	
+What year was the Congress of Vienna?	1814, eighteen fourteen	
+What is the Casimir effect?	Force between uncharged conducting plates in vacuum	
+Who composed The Planets?	Gustav Holst, Holst	
+What is the Klein-Gordon equation?	Relativistic wave equation for bosons	
+What year did the Spanish Civil War begin?	1936, nineteen thirty-six	
+What is the Lamb shift?	Energy level splitting in hydrogen	
+Who painted The Night Watch?	Rembrandt, rembrandt	
+What is the Bohr radius?	5.29x10^-11 m, 5.29e-11	
+What year was the Defenestration of Prague?	1618, sixteen eighteen	
+What is the Wigner function?	Quasi-probability distribution in phase space	
+Who wrote Paradise Lost?	John Milton, Milton	
+What is the Debye length?	Charge screening length in plasma	
+What year did the Glorious Revolution occur?	1688, sixteen eighty-eight	
+What is the Landau damping?	Collisionless damping in plasma	
+Who composed Carmina Burana?	Carl Orff, Orff	
+What is the Thomas-Fermi screening?	Electrostatic screening in conductors	
+What year was the Battle of Tours?	732, seven thirty-two	
+What is the Josephson effect?	Current flow through superconducting junction	
+Who painted American Gothic?	Grant Wood, Wood	
+What is the London penetration depth?	Magnetic field penetration in superconductor	
+What year did the War of Austrian Succession begin?	1740, seventeen forty	
+What is the Meissner effect?	Expulsion of magnetic field from superconductor	
+Who wrote Ulysses?	James Joyce, Joyce	
+What is the Cooper pair?	Bound electron pair in superconductor	
+What year was the Peace of Augsburg?	1555, fifteen fifty-five	
+What is the BCS theory?	Theory of superconductivity	
+Who composed Tristan und Isolde?	Richard Wagner, Wagner	
+What is the Kondo effect?	Resistance minimum in dilute magnetic alloys	
+What year did the War of Spanish Succession begin?	1701, seventeen oh one	
+What is the Fano resonance?	Asymmetric line shape in scattering	
+What country's flag is this?	Bangladesh	images/flag_bangladesh.png
+What country's flag is this?	Nepal	images/flag_nepal.png
+What country's flag is this?	Lebanon	images/flag_lebanon.png
+What country's flag is this?	Kenya	images/flag_kenya.png
+What country's flag is this?	Vietnam	images/flag_vietnam.png
+What country's flag is this?	Jamaica	images/flag_jamaica.png
+What country's flag is this?	Denmark	images/flag_denmark.png
+What country's flag is this?	Norway	images/flag_norway.png
+What famous landmark is this?	Angkor Wat	images/landmark_angkor_wat.jpg
+What famous landmark is this?	Hagia Sophia	images/landmark_hagia_sophia.jpg
+What famous landmark is this?	Alhambra	images/landmark_alhambra.jpg
+What famous landmark is this?	Neuschwanstein Castle,Neuschwanstein	images/landmark_neuschwanstein_castle.jpg
+What animal is this?	Capybara	images/animal_capybara.jpg
+What animal is this?	Axolotl	images/animal_axolotl.jpg
+What animal is this?	Platypus	images/animal_platypus.jpg
+What painting is this?	The Kiss	images/painting_the_kiss.jpg
+What painting is this?	American Gothic	images/painting_american_gothic.jpg
+What painting is this?	The Persistence of Memory	images/painting_the_persistence_of_memory.jpg
+What painting is this?	Guernica	images/painting_guernica.jpg
+What food is this?	Pho	images/food_pho.jpg
+What food is this?	Falafel	images/food_falafel.jpg
+What food is this?	Kimchi	images/food_kimchi.jpg
+What food is this?	Baklava	images/food_baklava.jpg
+What food is this?	Pad Thai	images/food_pad_thai.jpg
+What musical instrument is this?	Sitar	images/instrument_sitar.jpg
+What musical instrument is this?	Bagpipes	images/instrument_bagpipes.jpg
+What musical instrument is this?	Didgeridoo	images/instrument_didgeridoo.jpg
+What famous structure is this?	Burj Khalifa	images/landmark_burj_khalifa.jpg
+What natural wonder is this?	Victoria Falls	images/nature_victoria_falls.jpg
+What painting is this?	Las Meninas	images/painting_las_meninas.jpg
+What country's flag is this?	Finland	images/flag_finland.png
+What famous statue is this?	The Thinker	images/landmark_the_thinker.jpg
+What animal is this?	Pangolin	images/animal_pangolin.jpg
+What natural formation is this?	Giant's Causeway	images/nature_giant_s_causeway.jpg
