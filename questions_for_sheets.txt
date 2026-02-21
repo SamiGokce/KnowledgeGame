@@ -1,0 +1,314 @@
+=== EASY TAB ===
+Question	Answers	Image	Category
+
+Which superhero is known as the Dark Knight?	Batman		popculture
+What company makes the iPhone?	Apple		popculture
+What color are Smurfs?	Blue		popculture
+What is the name of Mickey Mouse's dog?	Pluto		popculture
+In Finding Nemo, what type of fish is Nemo?	Clownfish, Clown Fish		popculture
+What instrument has black and white keys?	Piano	images/instrument_piano.jpg	popculture
+What popular food is shown here?	Pizza	images/food_pizza.jpg	popculture
+What musical instrument is this?	Guitar	images/instrument_guitar.jpg	popculture
+What food is this?	Hamburger, Burger	images/food_hamburger.jpg	popculture
+How many members are in a typical boy band?	5, five		popculture
+What sport uses a round orange ball?	Basketball		popculture
+What is the name of the fairy in Peter Pan?	Tinkerbell, Tinker Bell		popculture
+What language is Dora the Explorer teaching?	Spanish		popculture
+What shape is a typical stop sign?	Octagon		popculture
+What color is Superman's cape?	Red		popculture
+In The Lion King, what is the cub's name?	Simba		popculture
+What board game has properties like Boardwalk?	Monopoly		popculture
+What famous painting is this?	Mona Lisa	images/painting_mona_lisa.jpg	popculture
+What food is this?	Hot Dog, Hotdog	images/food_hot_dog.jpg	popculture
+What instrument is this?	Drum, Drums	images/instrument_drum.png	popculture
+What musical instrument is this?	Trumpet	images/instrument_trumpet.jpg	popculture
+What is Mario's brother's name?	Luigi		popculture
+What app has a ghost as its logo?	Snapchat		popculture
+What candy bar shares its name with our galaxy?	Milky Way		popculture
+What is the name of Shrek's donkey friend?	Donkey		popculture
+What food is this?	Tacos, Taco	images/food_tacos.jpg	popculture
+What instrument is this?	Violin	images/instrument_violin.jpg	popculture
+What is the tallest animal?	Giraffe	images/animal_giraffe.jpg	popculture
+In what sport do you hit a shuttlecock?	Badminton		popculture
+Name this famous painting?	The Scream	images/painting_the_scream.jpg	popculture
+What food is this?	Croissant	images/food_croissant.jpg	popculture
+What color is a school bus?	Yellow		popculture
+What is Pikachu?	Pokemon		popculture
+What fruit is this?	Apple	images/misc_apple.jpg	science
+What planet is closest to the Sun?	Mercury		science
+What is H2O?	Water		science
+How many legs does a spider have?	8, eight		science
+What animal is this?	Elephant	images/animal_elephant.jpg	science
+What gas do humans breathe in?	Oxygen		science
+What is the closest star to Earth?	Sun		science
+What fruit is this?	Banana	images/misc_banana.jpg	science
+What animal is this?	Penguin	images/animal_penguin.jpg	science
+What animal is this?	Zebra	images/animal_zebra.jpg	science
+What animal is this?	Flamingo	images/animal_flamingo.jpg	science
+How many bones does an adult human have?	206		science
+What animal is this?	Tiger	images/animal_tiger.jpg	science
+Water freezes at how many degrees Celsius?	0, zero		science
+What is the largest organ in the human body?	Skin		science
+What planet is this?	Saturn	images/misc_saturn.jpg	science
+What animal is this?	Panda	images/animal_panda.jpg	science
+How many teeth does an adult human normally have?	32		science
+What animal is this?	Koala	images/animal_koala.jpg	science
+Which planet is known as the Red Planet?	Mars		science
+How many colors are in a rainbow?	7, seven		science
+What is baby cat called?	Kitten		science
+What force keeps us on the ground?	Gravity		science
+What animal is this?	Giraffe	images/animal_giraffe.jpg	science
+How many continents are there?	7, seven		science
+What is frozen water called?	Ice		science
+What animal is this?	Kangaroo	images/animal_kangaroo.jpg	science
+What animal is this?	Sloth	images/animal_sloth.jpg	science
+Is the sun a star or a planet?	Star		science
+What is the boiling point of water in Celsius?	100		science
+What is the hardest natural substance?	Diamond		science
+What is the largest continent?	Asia		geography
+Capital of France?	Paris		geography
+What is the largest ocean?	Pacific, Pacific Ocean		geography
+Capital of Italy?	Rome, Roma		geography
+What country does this flag belong to?	Japan	images/flag_japan.png	geography
+What country does this flag belong to?	United States, USA, America	images/flag_united_states.png	geography
+What country does this flag belong to?	France	images/flag_france.png	geography
+What country does this flag belong to?	Germany	images/flag_germany.png	geography
+What country does this flag belong to?	Italy	images/flag_italy.png	geography
+What country does this flag belong to?	Canada	images/flag_canada.png	geography
+What country does this flag belong to?	United Kingdom, UK, Britain	images/flag_united_kingdom.png	geography
+What famous landmark is this?	Eiffel Tower	images/landmark_eiffel_tower.jpg	geography
+What famous landmark is this?	Statue of Liberty	images/landmark_statue_of_liberty.jpg	geography
+What famous landmark is this?	Pyramids of Giza, Pyramids, Great Pyramid	images/landmark_pyramids_of_giza.jpg	geography
+Primary language of Brazil?	Portuguese		geography
+How many continents are there?	7, seven		geography
+Capital of the United Kingdom?	London		geography
+Capital of Japan?	Tokyo		geography
+Capital of Spain?	Madrid		geography
+What country does this flag belong to?	China	images/flag_china.png	geography
+What country does this flag belong to?	Mexico	images/flag_mexico.png	geography
+What country does this flag belong to?	Brazil	images/flag_brazil.png	geography
+What famous landmark is this?	Big Ben	images/landmark_big_ben.jpg	geography
+What famous landmark is this?	Taj Mahal	images/landmark_taj_mahal.jpg	geography
+What is the smallest continent?	Australia		geography
+Capital of Germany?	Berlin		geography
+What ocean lies between Europe and America?	Atlantic, Atlantic Ocean		geography
+Capital of China?	Beijing		geography
+Capital of Egypt?	Cairo		geography
+What famous landmark is this?	Great Wall of China, Great Wall	images/landmark_great_wall_of_china.jpg	geography
+What country does this flag belong to?	India	images/flag_india.png	geography
+What country does this flag belong to?	Turkey	images/flag_turkey.png	geography
+What country does this flag belong to?	Sweden	images/flag_sweden.png	geography
+What country does this flag belong to?	Switzerland	images/flag_switzerland.png	geography
+What country does this flag belong to?	Norway	images/flag_norway.png	geography
+What country does this flag belong to?	Denmark	images/flag_denmark.png	geography
+What is the longest river in Africa?	Nile, Nile River		geography
+
+=== MEDIUM TAB ===
+Question	Answers	Image	Category
+
+Who directed the movie Jaws?	Steven Spielberg, Spielberg		popculture
+What band was Freddie Mercury the lead singer of?	Queen		popculture
+What famous painting is this?	Starry Night, The Starry Night	images/painting_starry_night.jpg	popculture
+Who painted the Mona Lisa?	Leonardo da Vinci, Da Vinci		popculture
+What instrument is this?	Saxophone	images/instrument_saxophone.jpg	popculture
+What instrument is this?	Harp	images/instrument_harp.jpg	popculture
+What food is this?	Ramen	images/food_ramen.jpg	popculture
+What food is this?	Paella	images/food_paella.jpg	popculture
+What famous painting is this?	The Last Supper	images/painting_the_last_supper.jpg	popculture
+What author wrote Harry Potter?	JK Rowling, J.K. Rowling, Rowling		popculture
+What TV show features a character named Walter White?	Breaking Bad		popculture
+In what year did the Titanic sink?	1912		popculture
+What band sang Bohemian Rhapsody?	Queen		popculture
+Who played Jack in Titanic?	Leonardo DiCaprio, DiCaprio		popculture
+What sport does Serena Williams play?	Tennis		popculture
+What famous painting is this?	The Birth of Venus, Birth of Venus	images/painting_the_birth_of_venus.jpg	popculture
+What food is this?	Pad Thai	images/food_pad_thai.jpg	popculture
+What painting is this?	The Kiss	images/painting_the_kiss.jpg	popculture
+What instrument is this?	Sitar	images/instrument_sitar.jpg	popculture
+Who created the character Sherlock Holmes?	Arthur Conan Doyle, Conan Doyle		popculture
+What sitcom features characters named Ross and Rachel?	Friends		popculture
+Who sang Thriller?	Michael Jackson		popculture
+What video game features a character named Link?	Zelda, Legend of Zelda		popculture
+What fictional wizard school does Harry Potter attend?	Hogwarts		popculture
+Who wrote Romeo and Juliet?	Shakespeare, William Shakespeare		popculture
+What painting is this?	Girl with a Pearl Earring	images/painting_girl_with_a_pearl_earring.jpg	popculture
+What food is this?	Falafel	images/food_falafel.jpg	popculture
+Who is the Greek god of the sea?	Poseidon		popculture
+Name this famous painting?	American Gothic	images/painting_american_gothic.jpg	popculture
+What sport does Lionel Messi play?	Soccer, Football		popculture
+Who directed Pulp Fiction?	Quentin Tarantino, Tarantino		popculture
+What instrument is this?	Bagpipes	images/instrument_bagpipes.jpg	popculture
+What food is this?	Kimchi	images/food_kimchi.jpg	popculture
+Chemical symbol for gold?	Au		science
+What is the powerhouse of the cell?	Mitochondria		science
+Square root of 144?	12, twelve		science
+First man to walk on the moon?	Neil Armstrong, Armstrong		science
+Organ that pumps blood?	Heart		science
+What animal is this?	Capybara	images/animal_capybara.jpg	science
+What animal is this?	Platypus	images/animal_platypus.jpg	science
+What animal is this?	Axolotl	images/animal_axolotl.jpg	science
+What animal is this?	Pangolin	images/animal_pangolin.jpg	science
+What is the speed of light in km/s approximately?	300000		science
+What element has the atomic number 1?	Hydrogen		science
+What planet has the most moons?	Saturn		science
+Who developed the theory of relativity?	Einstein, Albert Einstein		science
+What is the chemical formula for table salt?	NaCl		science
+What is the largest planet in our solar system?	Jupiter		science
+How many chambers does the human heart have?	4, four		science
+What is the chemical symbol for iron?	Fe		science
+What bone is the funny bone?	Humerus		science
+What vitamin does the sun help your body produce?	Vitamin D, D		science
+What is the process of plants making food from sunlight?	Photosynthesis		science
+What is the largest mammal?	Blue Whale, Blue whale		science
+What gas makes up most of Earth's atmosphere?	Nitrogen		science
+What natural wonder is this?	Grand Canyon	images/nature_grand_canyon.jpg	science
+What natural wonder is this?	Victoria Falls	images/nature_victoria_falls.jpg	science
+What part of the brain controls balance?	Cerebellum		science
+How many chromosomes do humans have?	46		science
+What is the smallest bone in the human body?	Stapes, Stirrup		science
+What metal is liquid at room temperature?	Mercury		science
+What is the study of fossils called?	Paleontology		science
+What natural formation is this?	Giant's Causeway, Giants Causeway	images/nature_giant_s_causeway.jpg	science
+What type of rock is formed from cooled lava?	Ignite, Igneous		science
+What is this?	Airplane, Plane	images/misc_airplane.jpg	science
+Capital of Australia?	Canberra		geography
+Longest river in the world?	Nile, Nile River		geography
+Largest desert in the world?	Antarctica, Antarctic Desert		geography
+Currency of Japan?	Yen		geography
+Capital of South Korea?	Seoul		geography
+What country does this flag belong to?	South Korea, Korea	images/flag_south_korea.png	geography
+What country does this flag belong to?	Australia	images/flag_australia.png	geography
+What country does this flag belong to?	Greece	images/flag_greece.png	geography
+What country does this flag belong to?	Argentina	images/flag_argentina.png	geography
+What country does this flag belong to?	Spain	images/flag_spain.png	geography
+What country does this flag belong to?	Kenya	images/flag_kenya.png	geography
+What country does this flag belong to?	Jamaica	images/flag_jamaica.png	geography
+What famous landmark is this?	Colosseum, Roman Colosseum	images/landmark_colosseum.jpg	geography
+What famous landmark is this?	Golden Gate Bridge	images/landmark_golden_gate_bridge.jpg	geography
+What famous landmark is this?	Christ the Redeemer	images/landmark_christ_the_redeemer.jpg	geography
+What famous landmark is this?	Leaning Tower of Pisa, Tower of Pisa	images/landmark_leaning_tower_of_pisa.jpg	geography
+What famous landmark is this?	Machu Picchu	images/landmark_machu_picchu.jpg	geography
+Capital of Thailand?	Bangkok		geography
+What is the smallest country in the world?	Vatican City, Vatican		geography
+What country has the most people?	India		geography
+Currency of the United Kingdom?	Pound, Pound Sterling, GBP		geography
+Capital of Argentina?	Buenos Aires		geography
+Capital of Canada?	Ottawa		geography
+Capital of Mexico?	Mexico City		geography
+Capital of Russia?	Moscow		geography
+Capital of India?	New Delhi, Delhi		geography
+What is the longest river in Europe?	Volga, Volga River		geography
+What famous landmark is this?	Sydney Opera House	images/landmark_sydney_opera_house.jpg	geography
+What famous landmark is this?	Stonehenge	images/landmark_stonehenge.jpg	geography
+What food originated from the country shown in this flag?	Baklava	images/food_baklava.jpg	geography
+What food is this traditionally from East Asia?	Pho	images/food_pho.jpg	geography
+What country does this flag belong to?	Netherlands, Holland	images/flag_netherlands.png	geography
+What country does this flag belong to?	Vietnam	images/flag_vietnam.png	geography
+What country does this flag belong to?	Finland	images/flag_finland.png	geography
+What country does this flag belong to?	Lebanon	images/flag_lebanon.png	geography
+In which continent is the Sahara Desert?	Africa		geography
+
+=== HARD TAB ===
+Question	Answers	Image	Category
+
+Who directed the movie 2001: A Space Odyssey?	Stanley Kubrick, Kubrick		popculture
+What artist painted this work?	Gustav Klimt, Klimt	images/painting_the_kiss.jpg	popculture
+What painting is this?	Guernica	images/painting_guernica.jpg	popculture
+Who painted Guernica?	Pablo Picasso, Picasso		popculture
+What instrument is this?	Didgeridoo	images/instrument_didgeridoo.jpg	popculture
+What painting is this?	The Persistence of Memory	images/painting_the_persistence_of_memory.jpg	popculture
+Who painted The Persistence of Memory?	Salvador Dali, Dali		popculture
+What painting is this?	Las Meninas	images/painting_las_meninas.jpg	popculture
+Who painted Las Meninas?	Velazquez, Diego Velazquez		popculture
+What artist created this sculpture?	Rodin, Auguste Rodin	images/landmark_the_thinker.jpg	popculture
+What novel begins with Call me Ishmael?	Moby Dick, Moby-Dick		popculture
+Who composed The Four Seasons?	Vivaldi, Antonio Vivaldi		popculture
+What author wrote One Hundred Years of Solitude?	Gabriel Garcia Marquez, Garcia Marquez		popculture
+Who directed Blade Runner?	Ridley Scott		popculture
+What band released the album Dark Side of the Moon?	Pink Floyd		popculture
+What instrument is traditionally from Scotland?	Bagpipes	images/instrument_bagpipes.jpg	popculture
+Who wrote the novel Crime and Punishment?	Dostoevsky, Fyodor Dostoevsky		popculture
+What opera features the aria Nessun Dorma?	Turandot		popculture
+Who composed the opera The Magic Flute?	Mozart, Wolfgang Amadeus Mozart		popculture
+What year was the first Star Wars film released?	1977		popculture
+Who wrote the novel Brave New World?	Aldous Huxley, Huxley		popculture
+Who painted the ceiling of the Sistine Chapel?	Michelangelo		popculture
+What is the highest-grossing animated film of all time?	Frozen 2, Frozen II		popculture
+Who directed the movie Spirited Away?	Hayao Miyazaki, Miyazaki		popculture
+What artist painted Girl with a Pearl Earring?	Vermeer, Johannes Vermeer		popculture
+Who created the comic strip Peanuts?	Charles Schulz, Schulz		popculture
+What year was Minecraft first released?	2011		popculture
+What author wrote The Great Gatsby?	F. Scott Fitzgerald, Fitzgerald		popculture
+Who directed the movie Parasite?	Bong Joon-ho, Bong Joon Ho		popculture
+What food is this?	Baklava	images/food_baklava.jpg	popculture
+Who sculpted The Thinker?	Rodin, Auguste Rodin		popculture
+What year was the first iPhone released?	2007		popculture
+Who painted The Birth of Venus?	Botticelli, Sandro Botticelli		popculture
+What is the rarest blood type?	AB negative, AB-		science
+What is the chemical symbol for tungsten?	W		science
+What is the half-life of Carbon-14 approximately in years?	5730		science
+What particle has a positive charge?	Proton		science
+What is the most abundant element in the universe?	Hydrogen		science
+What is the pH of pure water?	7, seven		science
+What planet rotates on its side?	Uranus		science
+How many bones are in the human hand?	27		science
+What is the fastest land animal?	Cheetah		science
+What element has the symbol Hg?	Mercury		science
+What is the deepest point in the ocean called?	Mariana Trench, Challenger Deep		science
+What gas has the formula CO2?	Carbon Dioxide		science
+What is the only metal that is liquid at standard conditions?	Mercury		science
+What scientist discovered penicillin?	Alexander Fleming, Fleming		science
+What is the largest known living organism?	Honey Fungus, Armillaria		science
+What organ produces insulin?	Pancreas		science
+What is the speed of sound in m/s approximately?	343		science
+What is the most electronegative element?	Fluorine		science
+Who proposed the heliocentric model of the solar system?	Copernicus, Nicolaus Copernicus		science
+What is the densest naturally occurring element?	Osmium		science
+What is the Mohs hardness of diamond?	10, ten		science
+What vitamin deficiency causes scurvy?	Vitamin C, C		science
+What is the smallest unit of life?	Cell		science
+What element has atomic number 79?	Gold		science
+How many valence electrons does carbon have?	4, four		science
+What is the approximate age of Earth in billions of years?	4.5		science
+What is the study of fungi called?	Mycology		science
+What part of the eye controls how much light enters?	Iris		science
+What blood type is the universal donor?	O negative, O-		science
+What is the largest internal organ?	Liver		science
+What is the chemical name for baking soda?	Sodium Bicarbonate		science
+Capital of Burkina Faso?	Ouagadougou		geography
+Country with the longest coastline?	Canada		geography
+Strait separating Asia and North America?	Bering, Bering Strait		geography
+Former name of Sri Lanka?	Ceylon		geography
+Capital of Suriname?	Paramaribo		geography
+African country never colonized besides Liberia?	Ethiopia		geography
+Highest waterfall in the world?	Angel Falls		geography
+Capital of Mongolia?	Ulaanbaatar, Ulan Bator		geography
+Smallest US state by area?	Rhode Island		geography
+What country does this flag belong to?	Bangladesh	images/flag_bangladesh.png	geography
+What country does this flag belong to?	Nepal	images/flag_nepal.png	geography
+What famous landmark is this?	Angkor Wat	images/landmark_angkor_wat.jpg	geography
+What famous landmark is this?	Petra	images/landmark_petra.jpg	geography
+What famous landmark is this?	Burj Khalifa	images/landmark_burj_khalifa.jpg	geography
+What famous landmark is this?	Hagia Sophia	images/landmark_hagia_sophia.jpg	geography
+What famous landmark is this?	Alhambra	images/landmark_alhambra.jpg	geography
+What famous landmark is this?	Neuschwanstein Castle, Neuschwanstein	images/landmark_neuschwanstein_castle.jpg	geography
+What is the deepest lake in the world?	Baikal, Lake Baikal		geography
+Capital of Laos?	Vientiane		geography
+What is the driest continent?	Antarctica		geography
+What is the smallest African country by area?	Seychelles		geography
+Capital of Myanmar?	Naypyidaw		geography
+Capital of Kazakhstan?	Astana		geography
+Capital of Ecuador?	Quito		geography
+Capital of Nepal?	Kathmandu		geography
+Capital of Vietnam?	Hanoi		geography
+What sea lies between Africa and the Arabian Peninsula?	Red Sea		geography
+Capital of Finland?	Helsinki		geography
+Capital of Lebanon?	Beirut		geography
+Capital of Kenya?	Nairobi		geography
+What country has the most islands?	Sweden		geography
+In which country is Machu Picchu?	Peru		geography
+Capital of Iceland?	Reykjavik		geography
+What is the longest river in South America?	Amazon, Amazon River		geography
+Capital of Nigeria?	Abuja		geography
+What is the largest landlocked country?	Kazakhstan		geography
+What island country is located off the southeast coast of Africa?	Madagascar		geography
