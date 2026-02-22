@@ -4,6 +4,7 @@ function doGet(e) {
     const easySheet = ss.getSheetByName('Easy');
     const mediumSheet = ss.getSheetByName('Medium');
     const hardSheet = ss.getSheetByName('Hard');
+    const dailySheet = ss.getSheetByName('Daily');
 
     function getQuestions(sheet) {
       if (!sheet) return [];
@@ -43,6 +44,7 @@ function doGet(e) {
       easy: getQuestions(easySheet),
       medium: getQuestions(mediumSheet),
       hard: getQuestions(hardSheet),
+      daily: getQuestions(dailySheet),
       timestamp: new Date().toISOString()
     };
 
